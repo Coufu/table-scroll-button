@@ -31,3 +31,4 @@ $('.table--scroll-wrapper table').tableScrollButton();
 - Add basic CSS
 - Minify JS
 - Structure repo with package.json and gulpfile.js to continue development
+- Add example HTML file
