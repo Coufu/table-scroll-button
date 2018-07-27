@@ -22,7 +22,7 @@ $('.table--scroll-wrapper table').tableScrollButton();
 ```
 
 ## Features
-- Shows/hides only if the table is larger than its container (even on window resize)
+- Shows/hides only if the table is wider than its container (even on window resize)
 - Clicking it scrolls the table to the right exactly one width of the container.
 - The button hides (via css class) when you can't scroll any further
 - Vertical placement is based on table height or screen height (whichever is smaller)
