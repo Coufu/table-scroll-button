@@ -14,11 +14,11 @@ Tired of coding a custom table scroll buttons every time you need them? Use this
 
 ### JS
 ```
-$('table').tableScrollWrapper();
+$('table').tableScrollButton();
 ```
 or
 ```
-$('.table--scroll-wrapper table').tableScrollWrapper();
+$('.table--scroll-wrapper table').tableScrollButton();
 ```
 
 ## Features
