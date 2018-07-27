@@ -32,3 +32,4 @@ $('.table--scroll-wrapper table').tableScrollButton();
 - Minify JS
 - Structure repo with package.json and gulpfile.js to continue development
 - Add example HTML file
+- Handle potential performance issues when resizing window
