@@ -1,5 +1,5 @@
 # Table Scroll Button
-Ever wanted an easy to add a dynamic table scroll button to your table? Now you can really easily!
+Tired of coding a custom table scroll buttons every time you need them? Use this feature-rich plugin which requires only one line of code!
 
 ## Usage
 
